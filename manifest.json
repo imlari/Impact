@@ -1,27 +1,36 @@
 {
-    "background_color": "#008374",
-    "description": "Esse sistema foi desenvolvido para apresentar informações sobre a natureza. Aproveite!",
-    "display": "standalone",
-    "name": "nature.com",
-    "orientation": "any",
-    "scope": "/",
-    "short_name": "Nature",
     "start_url": "/index.html",
-    "theme_color": "#008374",
-    "categories": [],
-    "screenshots": [],
+    "short_name": "Nature",
+    "name": "Nature",
+    "description": "Seu sistema para saber mais sobre a natureza",
+    "scope": "/",
     "icons": [
-      {
-        "src": "assets/img/ic_launcher.png",
-        "type": "image/png",
-        "sizes": "96x96"
-      },
-      {
-        "src": "assets/img/nature.png",
-        "type": "image/png",
-        "sizes": "180x180"
-      }
+        {
+            "src": "assets/img/nature.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "assets/img/nature-180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "assets/img/196.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/512.png",
+            "sizes": "512x512",
+            "type": "./image/png"
+        }
     ],
+    "background_color": "#008374;",
+    "theme_color": "#008374",
     "shortcuts": [],
-    "lang": "pt"
-  }
+    "categories": [],
+    "lang": "pt",
+    "display": "standalone",
+    "orientation": "any"
+}
