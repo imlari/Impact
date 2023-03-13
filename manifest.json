@@ -1,0 +1,27 @@
+{
+    "background_color": "#008374",
+    "description": "Esse sistema foi desenvolvido para apresentar informações sobre a natureza. Aproveite!",
+    "display": "standalone",
+    "name": "nature.com",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Nature",
+    "start_url": "/index.html",
+    "theme_color": "#008374",
+    "categories": [],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "assets/img/ic_launcher.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "assets/img/nature.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      }
+    ],
+    "shortcuts": [],
+    "lang": "pt"
+  }
