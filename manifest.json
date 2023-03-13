@@ -26,10 +26,9 @@
             "type": "./image/png"
         }
     ],
-    "background_color": "#008374;",
+    "background_color": "#008374",
     "theme_color": "#008374",
     "shortcuts": [],
-    "categories": [],
     "lang": "pt",
     "display": "standalone",
     "orientation": "any"
